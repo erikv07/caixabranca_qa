@@ -59,7 +59,7 @@ public class codigo_slide {
 	        return result;
 	    }
 
-	    // Instancia as ariaveis 
+	    // Instancia as variaveis 
 	    public String nome = "";
 	    public boolean result = false;
 	}
